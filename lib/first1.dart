@@ -20,4 +20,5 @@ void main() {
   print(calculate(num1: 100, num2: 5, operation: '/'));
   print(calculate(num1: 85, num2: 36, operation: '-'));
   print(calculate(num1: 24, num2: 9, operation: '%'));
+  print(calculate(num1: 10, num2: 5, operation: '+'));
 }
